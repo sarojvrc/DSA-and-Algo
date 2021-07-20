@@ -13,7 +13,6 @@ public class StringCompare {
 		System.out.println("You inputted for String 1 is "+str1);
 		System.out.println("You inputted for String 2 is "+str2);
 		if(str1 == str2) {
-			//System.out.println(str1 + " and "+str2+" both are equal");
 			System.out.println(str1 + " and "+str2+" both are equal");
 		}
 		if(compare ==  true) {
