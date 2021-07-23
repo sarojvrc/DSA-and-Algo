@@ -20,7 +20,9 @@ public class ArrayMinElementPractice {
 				min = arr[i];
 			}
 		}
+		//System.out.println("The minimun element in the array is "+min);
 		System.out.println("The minimun element in the array is "+min);
+		
 	}
 
 }
