@@ -6,7 +6,7 @@ import java.util.Arrays;
 class TwoSum {
     public int[] twoSum(int[] nums, int target) {
     	
-    	nums = {2,7,11,15};
+    	nums[] = {2,7,11,15};
     	target = 18;
     	
         for(int i=0; i<nums.length; i++){
