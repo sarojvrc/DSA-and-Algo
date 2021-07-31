@@ -29,6 +29,7 @@ public class ArrayAvarage {
 		//for avarage
 		avg = sum/size;
 		
+		//now we are print our results
 		System.out.println("The sum of the total array elements is "+sum);
 		System.out.println("The avarage of the array elements is "+avg);
 	}
