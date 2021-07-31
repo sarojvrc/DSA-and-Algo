@@ -28,7 +28,10 @@ public class ArrayDelete1 {
 //			
 //		 }
 		 
-		 System.out.println("New array is "+Arrays.toString(arr));
+		// System.out.println("New array is "+Arrays.toString(arr));
+		 for(int i=0; i<size; i++) {
+			 System.out.print(arr[i]+" ");
+		 }
 
 	}
 
