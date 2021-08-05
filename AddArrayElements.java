@@ -19,7 +19,7 @@ public class AddArrayElements {
 		int arr[] = {2,2,1};
 		System.out.println("Array is "+Arrays.toString(arr));
 		
-		//call the add method
+		//call the add function
 		AddArrayElements.AddElement(arr);
 
 	}
